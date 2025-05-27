@@ -9,6 +9,8 @@ const Cart = ({ cartItems, isOpen, onClose,borrarProducto }) => {
                 <h2 style={{color:'black'}}>Carrito de Compras</h2>
                 <button onClick={onClose} className='close-button'>X</button>
             </div>
+
+            
             <div className='cart-content'>
                 {cartItems.length === 0 ? (<p style={{ color: 'red' }}>El carrito esta vacío</p>) : (<ul className='cart-item'>
                     {cartItems.map((item,index)=>(

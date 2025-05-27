@@ -1,50 +1,50 @@
 [
     {
       "id": 1,
-      "nombre": "Mojito",
-      "precio": 8.5,
+      "nombre": "Banfield",
+      "precio": 250.499,
       "stock": 25,
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDSguXxgPkbk8Z7gHspLavSupIqXF6p2by_g&s",
-      "categoria": "clásico"
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_816482-MLA75994643644_052024-O.webp",
+      "categoria": "argentina"
     },
     {
       "id": 2,
-      "nombre": "Piña Colada",
-      "precio": 9.0,
+      "nombre": "Barcelona",
+      "precio": 89.499,
       "stock": 18,
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyB4OdAMf-Cnk8dyo-MTbVK50-MZBlo0EIzg&s",
-      "categoria": "tropical"
+      "imagen": "https://myballerbox.com/cdn/shop/files/barcelona-14-home-kids-tags.jpg?v=1728166061&width=1500",
+      "categoria": "españa"
     },
     {
       "id": 3,
-      "nombre": "Daiquiri de Fresa",
-      "precio": 10.0,
+      "nombre": "Inter Miami",
+      "precio": 89.499,
       "stock": 12,
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qow489_VUlm0JP_814OKAKQpAenu7T9NnA&s",
-      "categoria": "tropical"
+      "imagen": "https://www.opensports.com.ar/media/catalog/product/cache/05274af0d548b38ac2c73c40ddac6010/j/e/je9743_0_6.jpg",
+      "categoria": "estados unidos"
     },
     {
       "id": 4,
-      "nombre": "Bloody Mary",
-      "precio": 9.5,
+      "nombre": "Paris Saint-Germain",
+      "precio": 59.999,
       "stock": 15,
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzPh4EahkGN_sljU4LNtwjf0MFhTSGe0zb9g&s",
-      "categoria": "clásico"
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_891911-MLA83133362429_032025-O.webp",
+      "categoria": "francia"
     },
     {
       "id": 5,
-      "nombre": "Sex on the Beach",
-      "precio": 8.0,
+      "nombre": "Real Madrid",
+      "precio": 70.999,
       "stock": 20,
-      "imagen": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/CFF0C31F-1F4D-4655-85F7-2C6D669E0269/Derivates/DA29817C-241C-4DE0-AD2C-CFEA61D762FA.jpg",
-      "categoria": "tropical"
+      "imagen": "https://newsport.vtexassets.com/arquivos/ids/20160785/IU5011-A.jpg?v=638789437339230000",
+      "categoria": "españa"
     },
     {
       "id": 6,
-      "nombre": "Cóctel sin Alcohol de Frutas",
-      "precio": 6.0,
+      "nombre": "Roma",
+      "precio": 80.999,
       "stock": 30,
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVn2FyPK8HYYE_FgMwd2zjvpfTe4gfyvKZSA&s",
-      "categoria": "sin alcohol"
+      "imagen": "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw0bcd859d/products/NI_AJ5559-613/NI_AJ5559-613-1.JPG",
+      "categoria": "italia"
     }
   ]

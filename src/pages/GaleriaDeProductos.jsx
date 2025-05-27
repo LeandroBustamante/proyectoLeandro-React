@@ -8,11 +8,15 @@ const GaleriaDeProductos = ({cart,productos, cargando,agregarCarrito, borrarProd
   return (
     <>
       <Header borrarProducto={borrarProducto} cartItems={cart}/>
-      <h1>Galeria de productos</h1>
+      <h1>Tienda</h1>
       {
-          cargando ? <img src={loading} alt='loading' /> :
-
-          <ProductList agregarCarrito={agregarCarrito} productos={productos}/>
+          cargando ? (
+            <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh', transform: 'translateY(-30vh)' }}>
+              <img src={loading} alt='loading' />
+            </div>
+          ) : (
+            <ProductList agregarCarrito={agregarCarrito} productos={productos} />
+          )
         }
 
       <Footer/>
